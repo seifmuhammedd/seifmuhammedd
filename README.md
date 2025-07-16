@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/seif-muhammed-7a7036278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seif muhammed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/seif-muhammed-7a7036278/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="seif muhammed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
